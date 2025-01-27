@@ -18,7 +18,7 @@ git clone https://github.com/Zeeshann1/Real-Time-Portrait-Video-Matting.git
 cd Real-Time-Portrait-Video-Matting.git
 ```
 
-- Install Requirements
+- Install Requirements <p>
 Install the required python dependencies (please make sure your CUDA version is supported by the PyTorch version installed):
 
 ```bash
